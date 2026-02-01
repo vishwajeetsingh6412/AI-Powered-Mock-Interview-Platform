@@ -1,4 +1,5 @@
 # AI-Powered Mock Interview Platform
+# Drive Link :https://drive.google.com/drive/folders/1VoCtPamm-mjOTTV42UVkWn3CU0ZJw5EL?usp=sharing
 
 An intelligent mock interview platform that simulates real-world interview conditions with adaptive question difficulty, time constraints, and objective scoring.
 
@@ -56,3 +57,4 @@ Edit `config.py` to adjust:
 - `QUESTION_TIME_LIMIT_SECONDS`: Time per question (default: 180)
 - `EARLY_TERMINATION_THRESHOLD`: Score below which interview may end early (default: 35)
 - `MIN_QUESTIONS` / `MAX_QUESTIONS`: Interview length bounds
+
